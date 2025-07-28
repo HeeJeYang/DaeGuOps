@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DaeGuOps&fontSize=90)
+<img src="docs/daeguops_logo.png" alt="daeguops logo" />
 
 # 🛠️ Docker & Kubernetes를 활용한 Build Infra 구축 🛠️
 
